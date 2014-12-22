@@ -1,0 +1,21 @@
+[2014-12-09 09:36:00,450] INFO  com.google.gerrit.server.cache.h2.H2CacheFactory : Enabling disk cache D:\gerrit-test\test-gerrit\test\cache
+[2014-12-09 09:36:01,216] INFO  com.google.gerrit.server.config.ScheduleConfig : gc schedule parameter "gc.interval" is not configured
+[2014-12-09 09:36:02,191] WARN  com.google.gerrit.sshd.SshDaemon : Disabling cipher aes192-cbc: Illegal key size; try installing unlimited cryptography extension
+[2014-12-09 09:36:02,192] WARN  com.google.gerrit.sshd.SshDaemon : Disabling cipher aes256-cbc: Illegal key size; try installing unlimited cryptography extension
+[2014-12-09 09:36:02,193] WARN  com.google.gerrit.sshd.SshDaemon : Disabling cipher aes256-ctr: Illegal key size; try installing unlimited cryptography extension
+[2014-12-09 09:36:02,197] WARN  com.google.gerrit.sshd.SshDaemon : Disabling cipher arcfour256: Illegal key size; try installing unlimited cryptography extension
+[2014-12-09 09:36:02,198] WARN  com.google.gerrit.sshd.SshDaemon : Disabling cipher arcfour128: invalid parameter passed to RC4 init - org.bouncycastle.crypto.params.ParametersWithIV
+[2014-12-09 09:36:02,232] WARN  com.google.gerrit.httpd.GitWebConfig : gitweb not installed (no \usr\lib\cgi-bin\gitweb.cgi found)
+[2014-12-09 09:36:02,488] INFO  org.eclipse.jetty.util.log : Logging initialized @8161ms
+[2014-12-09 09:36:03,673] INFO  com.google.gerrit.server.git.LocalDiskRepositoryManager : Defaulting core.streamFileThreshold to 62m
+[2014-12-09 09:36:03,689] INFO  com.google.gerrit.server.plugins.PluginLoader : Loading plugins from d:\gerrit-test\test-gerrit\test\plugins
+[2014-12-09 09:36:04,635] INFO  com.google.gerrit.sshd.SshDaemon : Started Gerrit SSHD-CORE-0.11.1-ATLASSIAN-1 on *:29418
+[2014-12-09 09:36:04,641] INFO  org.eclipse.jetty.server.Server : jetty-9.2.1.v20140609
+[2014-12-09 09:36:06,355] INFO  org.eclipse.jetty.server.handler.ContextHandler : Started o.e.j.s.ServletContextHandler@11f4fd4{/,file:/C:/Users/drajagopal/.gerritcodereview/tmp/gerrit_5189636336760778230_app/gerrit_war/,AVAILABLE}
+[2014-12-09 09:36:06,362] INFO  org.eclipse.jetty.server.ServerConnector : Started ServerConnector@15ee112{HTTP/1.1}{0.0.0.0:8080}
+[2014-12-09 09:36:06,363] INFO  org.eclipse.jetty.server.Server : Started @12040ms
+[2014-12-09 09:36:06,365] INFO  com.google.gerrit.pgm.Daemon : Gerrit Code Review 2.10-rc0 ready
+[2014-12-09 18:42:56,001] INFO  com.google.gerrit.pgm.Daemon : caught shutdown, cleaning up
+[2014-12-09 18:43:00,940] INFO  org.eclipse.jetty.server.ServerConnector : Stopped ServerConnector@15ee112{HTTP/1.1}{0.0.0.0:8080}
+[2014-12-09 18:43:01,203] INFO  org.eclipse.jetty.server.handler.ContextHandler : Stopped o.e.j.s.ServletContextHandler@11f4fd4{/,file:/C:/Users/drajagopal/.gerritcodereview/tmp/gerrit_5189636336760778230_app/gerrit_war/,UNAVAILABLE}
+[2014-12-09 18:43:01,773] INFO  com.google.gerrit.sshd.SshDaemon : Stopped Gerrit SSHD

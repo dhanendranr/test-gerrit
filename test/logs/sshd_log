@@ -1,0 +1,6 @@
+[2014-12-22 18:54:00,167 +0530] b14a6db6 dhanendran a/1000000 LOGIN FROM 127.0.0.1
+[2014-12-22 18:54:00,442 +0530] b14a6db6 dhanendran a/1000000 gerrit.create-project 22ms 118ms 0
+[2014-12-22 18:54:00,447 +0530] b14a6db6 dhanendran a/1000000 LOGOUT
+[2014-12-22 18:59:20,846 +0530] 911ba9da dhanendran a/1000000 LOGIN FROM 127.0.0.1
+[2014-12-22 18:59:20,887 +0530] 911ba9da dhanendran a/1000000 git-upload-pack./demo/gerrittest 2ms 23ms 0
+[2014-12-22 18:59:20,889 +0530] 911ba9da dhanendran a/1000000 LOGOUT

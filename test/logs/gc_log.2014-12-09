@@ -1,0 +1,5 @@
+[2014-12-09 09:36:04,427] INFO  : Ignoring missing gc schedule configuration
+[2014-12-09 09:42:08,742] INFO  : [Test-gerrit] gc config: no set
+[2014-12-09 09:42:08,743] INFO  : [Test-gerrit] pack config: maxDeltaDepth=50, deltaSearchWindowSize=10, deltaSearchMemoryLimit=0, deltaCacheSize=52428800, deltaCacheLimit=100, compressionLevel=-1, indexVersion=2, bigFileThreshold=52428800, threads=0, reuseDeltas=true, reuseObjects=true, deltaCompress=true, buildBitmaps=true
+[2014-12-09 09:42:08,764] INFO  : [Test-gerrit] before: sizeOfPackedObjects=0, sizeOfLooseObjects=839, numberOfPackedObjects=0, numberOfPackFiles=0, numberOfPackedRefs=0, numberOfLooseRefs=3, numberOfLooseObjects=8
+[2014-12-09 09:42:09,594] INFO  : [Test-gerrit] after:  sizeOfPackedObjects=851, sizeOfLooseObjects=0, numberOfPackedObjects=8, numberOfPackFiles=2, numberOfPackedRefs=2, numberOfLooseRefs=1, numberOfLooseObjects=0
